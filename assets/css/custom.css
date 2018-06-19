@@ -3104,6 +3104,14 @@ svg {
   border-color: transparent;
 }
 
+/*
+.u-btn-primary--air {
+  color: #FF3300;
+  background: rgba(255, 165, 0, 0.2);
+  border-color: transparent;
+}
+*/
+
 .u-btn-primary--air:hover, .u-btn-primary--air:focus, .u-btn-primary--air:active, .u-btn-primary--air.active {
   color: #fff;
   background: #377dff;
