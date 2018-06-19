@@ -5329,7 +5329,7 @@ svg {
 
 /* Small */
 .u-label--sm {
-  font-size: 0.75rem;
+  font-size: 1.25rem;
   padding: 0.5rem 1rem;
 }
 
@@ -7166,7 +7166,7 @@ svg {
 }
 
 .u-space-3-top {
-  padding-top: 12.125rem;
+  padding-top: 20.125rem;
 }
 
 .u-space-3-bottom {
@@ -7256,7 +7256,7 @@ svg {
     padding-bottom: 15rem;
   }
   .u-space-0--lg {
-    padding-top: 0;
+    padding-top: 200;
     padding-bottom: 0;
   }
   .u-space-bottom-0--lg {
